@@ -1,0 +1,3584 @@
+{
+    "company": "a244692",
+    "type": "leaves",
+    "stage": "response",
+    "data": {
+        "totais": {
+            "success": [
+                {
+                    "cod": "4654",
+                    "cod_interno": null,
+                    "origem": {
+                        "motivo": "Afastado Acid. Trabalho",
+                        "matricula": "000040833",
+                        "inicio": "2019-08-08T00:00:00",
+                        "fim": "2019-08-13T00:00"
+                    }
+                },
+                {
+                    "cod": "4655",
+                    "cod_interno": null,
+                    "origem": {
+                        "motivo": "Afastado Acid. Trabalho",
+                        "matricula": "000040833",
+                        "inicio": "2019-08-26T00:00:00",
+                        "fim": "2019-08-29T00:00"
+                    }
+                },
+                {
+                    "cod": "4656",
+                    "cod_interno": null,
+                    "origem": {
+                        "motivo": "Doença Ocupacional",
+                        "matricula": "000043640",
+                        "inicio": "2019-07-22T00:00:00",
+                        "fim": "2019-08-26T00:00"
+                    }
+                },
+                {
+                    "cod": "4657",
+                    "cod_interno": null,
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000022913",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                }
+            ],
+            "errors": [
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000002813]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "Licença Maternidade",
+                        "matricula": "000002813",
+                        "inicio": "2018-05-05T00:00:00",
+                        "fim": "2018-09-02T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000024119]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "Licença Maternidade",
+                        "matricula": "000024119",
+                        "inicio": "2017-09-02T00:00:00",
+                        "fim": "2017-12-31T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000024119]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "Licença Maternidade",
+                        "matricula": "000024119",
+                        "inicio": "2018-08-31T00:00:00",
+                        "fim": "2018-12-29T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "Afastado Acid. Trabalho",
+                        "matricula": "000027942",
+                        "inicio": "2019-06-09T00:00:00",
+                        "fim": "2019-09-11T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "Afastado Acid. Trabalho",
+                        "matricula": "000033496",
+                        "inicio": "2019-07-08T00:00:00",
+                        "fim": "2051-01-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000036091]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "Licença Maternidade",
+                        "matricula": "000036091",
+                        "inicio": "2018-08-01T00:00:00",
+                        "fim": "2018-11-29T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "Doença Ocupacional",
+                        "matricula": "000036140",
+                        "inicio": "2019-06-18T00:00:00",
+                        "fim": "2051-01-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "Afastado Acid. Trabalho",
+                        "matricula": "000040833",
+                        "inicio": "2019-08-29T00:00:00",
+                        "fim": "2019-09-05T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "Afastado Acid. Trabalho",
+                        "matricula": "000040833",
+                        "inicio": "2019-09-05T00:00:00",
+                        "fim": "2051-01-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000000041]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000000041",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000000046]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000000046",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000000058]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000000058",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000000078",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000000121]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000000121",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000000218]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000000218",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000000327",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000000617]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000000617",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000000635]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000000635",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000000701",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000000905",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000001146",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000001207]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000001207",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000001228]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000001228",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000001414",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000001548]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000001548",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000001564]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000001564",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000001884",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000001919]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000001919",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000001940]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000001940",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000002150]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000002150",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000002229",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000002232",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000002327]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000002327",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000002329]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000002329",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000002334]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000002334",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000002367]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000002367",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000002446]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000002446",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000002471]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000002471",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000002493]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000002493",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000002670",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000002781]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000002781",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000002820",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000002843]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000002843",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000002864",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000002886",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000003113",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000003115",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000003157",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000003199",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000003268]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000003268",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000003455]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000003455",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000003599]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000003599",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000003760]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000003760",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000003901",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000003916]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000003916",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000003970]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000003970",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000003997",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000004108]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000004108",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000004202]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000004202",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000004222",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000004650",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000005176",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000005875]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000005875",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000006087",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000006429]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000006429",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000006718",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000006818",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000007681",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000008099",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000008143]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000008143",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000008424]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000008424",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000008433]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000008433",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000008484]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000008484",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000008485]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000008485",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000008655]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000008655",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000008705]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000008705",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000008861",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000008873",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000008899]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000008899",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000008931]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000008931",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000009114]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000009114",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000009162]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000009162",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000009474]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000009474",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000009586",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000009807",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000009826]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000009826",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000010132]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000010132",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000010140]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000010140",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000010171]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000010171",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000010323",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000010356]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000010356",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000010465",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000010478]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000010478",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000010533",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000010594]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000010594",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000010980]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000010980",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000011690]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000011690",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000012248]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000012248",
+                        "inicio": "2019-09-10T00:00:00",
+                        "fim": "2019-09-30T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000012496]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000012496",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000012583]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000012583",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000013022]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000013022",
+                        "inicio": "2019-09-10T00:00:00",
+                        "fim": "2019-09-30T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000013121]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000013121",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000013126",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000013194",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000013244",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000013305",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000013382]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000013382",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000013470]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000013470",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000013660",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-26T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000013675",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000013876",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000014022",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000014088",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000014229",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000015164",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000015167",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000015638",
+                        "inicio": "2019-09-04T00:00:00",
+                        "fim": "2019-09-29T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000016105",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000016986",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000017024]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000017024",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000017347",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000017440",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000018171",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000018272",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000018402",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000018486",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000018817",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000018976",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000018999",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000020822",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000020926",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000021012",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000021576",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000021816",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000021904]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000021904",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000021934]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000021934",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000021982",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000022022",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000022129",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000022671]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000022671",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000022702]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000022702",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000022822]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000022822",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000022933]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000022933",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000023164]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000023164",
+                        "inicio": "2019-09-10T00:00:00",
+                        "fim": "2019-09-30T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000023235]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000023235",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000024223]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000024223",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000024251]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000024251",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000024262]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000024262",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000024366]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000024366",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000024370]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000024370",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000024404",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000024450",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000024472",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000024493]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000024493",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000024624]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000024624",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000025150]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000025150",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000025331",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000025468",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000026361",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000026828",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000028040",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000028299",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000028343",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000028403",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000028430",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000028437",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000029056",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000029090",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000029129",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000029153",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000029468",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000029706",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000029803",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000030673",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000030819",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000030886",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000030981",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000031293",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000031296",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000031343",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000031610",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000031897",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000032057",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000032133",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000032136",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000032182",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000032185",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000032431",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000032492",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000032517",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000032592",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000032630",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000032807",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000032826",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000032999",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000033536",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000034063",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000034251",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000034468",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000034522",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000034607",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000034608",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000035032",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000035126",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000035184",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000035290",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000035329",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000035872",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000035874",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000036133",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000037039",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000037071",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000037094",
+                        "inicio": "2019-09-15T00:00:00",
+                        "fim": "2019-09-30T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000037142",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000037198",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000037232",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000037233",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000037248",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000037342",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000037343",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000037523",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000037529",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000037565",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000037713",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000037790",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000037793",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000037794",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000037797",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000037999",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000038111",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000038112",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000038240",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000038251",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000038282",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000038498",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000038499",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000038530",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000038556",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000038568",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000038655",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000038739",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000038795",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000038873",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000038877",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000038932",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000038969",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000039035",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000039053",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000039179",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000039183",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000039438",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000039598",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000039601",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000039650",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000039714",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000039727",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000039788",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000039899",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000040007",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000040016",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000040130",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000040145",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000040148",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000040194",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000040198",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000040487",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000040518",
+                        "inicio": "2019-09-11T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000040542",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000040647",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000040742",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000040786",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-26T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000040868",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000040963",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000041063",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000041069",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000041108",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000041111",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000041124",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000041129",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000041188",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000041204",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000041303",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000041564",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000041568",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000041615",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000041625",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000041690",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000041701",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-22T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000041721",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000041766",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000041856",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000041895",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000041940",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "000041968",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [700000739]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "700000739",
+                        "inicio": "2019-09-02T00:00:00",
+                        "fim": "2019-09-17T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [700000742]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "FÉRIAS",
+                        "matricula": "700000742",
+                        "inicio": "2019-09-16T00:00:00",
+                        "fim": "2019-10-01T00:00"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "00003",
+                        "matricula": "000038082",
+                        "inicio": "2019-09-24",
+                        "fim": "2019-09-24"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "00003",
+                        "matricula": "000043021",
+                        "inicio": "2019-09-23",
+                        "fim": "2019-09-23"
+                    }
+                }
+            ]
+        }
+    },
+    "date": "2019-09-28-T07:30:27"
+}

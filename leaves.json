@@ -1,0 +1,38 @@
+{
+    "company": "a244692",
+    "type": "leaves",
+    "stage": "response_1",
+    "data": {
+        "totais": {
+            "success": [],
+            "errors": [
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": [
+                        "Não foi possível encontrar o funcionário com a matrícula [000001572]",
+                        "Não foi possível inserir afastamento sem selecionar funcionários."
+                    ],
+                    "origem": {
+                        "motivo": "Aposentado Aux Doença",
+                        "matricula": "000001572",
+                        "inicio": "2019-12-12",
+                        "fim": "2050-12-31"
+                    }
+                },
+                {
+                    "cod": null,
+                    "cod_interno": null,
+                    "erro": "O afastamento possui intersecção com outro já cadastrado.",
+                    "origem": {
+                        "motivo": "00004",
+                        "matricula": "000038094",
+                        "inicio": "2019-12-17",
+                        "fim": "2019-12-18"
+                    }
+                }
+            ]
+        }
+    },
+    "date": "2019-12-22-T07:30:04"
+}
