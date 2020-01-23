@@ -1,11 +1,9 @@
-'use strict'
-
 const fs = require("fs");
 const {parse} = require("json2csv");
 const express = require("express");
 
 
-fs.readFile("userFile", (error, file) => {
+fs.readFile('../uploads', (error, file) => {
         if (error) {
         return "Deu erro!";
         }
@@ -17,6 +15,7 @@ fs.readFile("userFile", (error, file) => {
     try {
         const csv = parse(readJson,fields);
         fs.writeFileSync("./resp.csv", csv)
+        
     } catch (err){
         console.log(err);
     }
